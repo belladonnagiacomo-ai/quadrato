@@ -19,7 +19,7 @@
         }
         static void Main(string[] args)
         {
-            int[] array = { 1, 2, 5, 9, 10, 77, 6, 34, 8 };
+            int[] array = { 5,9,10 };
             if (quadrato(array) == true)
             {
                 Console.WriteLine("true");
